@@ -1,6 +1,11 @@
-GloVe embedding data can be found at:
-http://nlp.stanford.edu/data/glove.6B.zip
+# Convolutional Neural Network Demo  
+
+## Step 1: Download pre-trained word embeddings and save them in a directory called glove.6B in the root  
+GloVe embedding data can be found at:  
+http://nlp.stanford.edu/data/glove.6B.zip  
 (source page: http://nlp.stanford.edu/projects/glove/)
+
+## Step 2: Train the neural network and run it using the CNN Demo Jupyter Notebook!
 
 The news headlines are a subset of the dataset found here:
 https://www.kaggle.com/rmisra/news-category-dataset
